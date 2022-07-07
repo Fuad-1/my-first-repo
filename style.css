@@ -1,0 +1,9 @@
+h1{
+    color: salmon;
+}
+small{
+    display: block;
+}
+h3{
+    box-shadow: 60px 16px -16px teal;
+}
